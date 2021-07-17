@@ -15,3 +15,13 @@ O valor máximo para prestação (margem de 30%) é R$3000.00
 Para pagar uma casa de R$200000.00 em 10 anos a prestação será de R$1666.67
 Empréstimo pode ser CONCEDIDO!
 ```
+2. Exemplo
+```py
+
+Valor da casa: R$ 200000
+Salário do comprador: R$ 5000
+Quantos anos de financiamento? 10
+O valor máximo para prestação (margem de 30%) é R$1500.00
+Para pagar uma casa de R$200000.00 em 10 anos a prestação será de R$1666.67
+Empréstimo NEGADO!
+```
