@@ -1,11 +1,17 @@
-# Basico_Condicionais_Nota
+# Basico_Condicionais_Aprovando_Empréstimo
 Assessment activity of the 1º period of IT Bachelor on Basic and Conditionals in Python / Atividade avaliativa do 1º periodo do Bacharelado em TI sobre Básico e Condicionais em Python
 
-## Nota
+## Aprovando Empréstimo
 
 ### Objetivo
-As atividades que são passadas para um curso de Pensamento Computacional valem até 4,0 pontos na média final da disciplina. As atividades completas (corretas) entregues no prazo valem 100% de seus pontos e as incompletas ou fora do prazo valem 50%. Faça um programa para te ajudar a saber qual será sua nota correspodente às atividades em função do número de atividades completas e incompletas que você submeteu. Considere um número total de 60 atividades ao longo do curso.
+Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+1. Exemplo
+```py
 
-O programa deve perguntar ao usuário quantas atividades foram submetidas ao todo e, destas, quantas foram completas (corretas dentro do prazo). O programa deverá, então, apresentar a nota correspodente.
-
-O programa deve também desenhar duas linhas horizontais, uma sobre a outra, para mostrar o percentual de atividades completas sobre a total de submetidas.
+Valor da casa: R$ 200000
+Salário do comprador: R$ 10000
+Quantos anos de financiamento? 10
+O valor máximo para prestação (margem de 30%) é R$3000.00
+Para pagar uma casa de R$200000.00 em 10 anos a prestação será de R$1666.67
+Empréstimo pode ser CONCEDIDO!
+```
