@@ -3,7 +3,10 @@ Assessment activity of the 1º period of IT Bachelor on Basic and Conditionals i
 
 ## Aprovando Empréstimo
 
-### Objetivo
+### Goal / Objetivo
+
+Write a program to approve the bank loan for the purchase of a house. Ask the value of the house, the buyer's salary and in how many years he will pay. The monthly payment cannot exceed 30% of the salary or the loan will be denied. 
+
 Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
 1. Exemplo
 ```py
